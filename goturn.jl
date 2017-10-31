@@ -1,3 +1,6 @@
+# Serkan SULUN. ssulun16@ku.edu.tr
+# GOTURN: Generic Object Tracking Using Regression Networks
+
 using Images, Knet, MAT, ArgParse, JLD
 
 function get_data(set)
